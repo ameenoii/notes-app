@@ -1,0 +1,39 @@
+.note{
+  background-color:white;
+  display:auto;
+
+}
+.head{
+color: rgb(0, 0, 0);
+display: flex;
+justify-content: center;
+
+
+}
+
+
+.front{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blue{
+background-color: lightblue;
+color:darkblue
+}
+.redish{
+  background-color: brown;
+  color:orange;
+}
+.greenish{
+  background-color: lightgreen;
+  color: green;
+}
+.notecard{
+border:1px solid;
+border-color: black;
+border: width 20px;
+}
+.nav{
+  display: flex;
+}
